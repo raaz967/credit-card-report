@@ -69,7 +69,7 @@ To begin my career in data analytics by applying technical skills, analytical th
 
 -## Connect With Me
 
-- **GitHub:** [raaz967]
+- **GitHub:** [https://github.com/raaz967]
 - **Email:** [rajc9282@gmail.com]
 
 ---
